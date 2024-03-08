@@ -7,6 +7,6 @@ In particular, the launcher would:
 * Install .Net Framework 2.0 (silently)
 * Launch the setup program *or* the installed application, if found on the system
 
-It has been uploaded and archived to GitHub for posterity. The [provided license](SOURCECODE-LICENSE) applies only to the project's sourcecode *and* not any included media assets.
+It has been uploaded and archived to GitHub for posterity. The [provided license](SOURCECODE-LICENSE) applies only to the project's sourcecode *and not* any included media assets.
 
 ![Autoplay launcher preview](./preview.jpg)
